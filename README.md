@@ -6,3 +6,7 @@ In this project I was tasked with creating a text editor that works offline! Whe
 
 ## Deployed App Link:
 https://dashboard.heroku.com/apps/limitless-garden-48521
+
+
+### Disclaimer:
+Worked with a tutor on this assignment and utilized code from previous activities
